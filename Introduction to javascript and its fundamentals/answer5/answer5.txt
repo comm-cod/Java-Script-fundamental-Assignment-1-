@@ -1,0 +1,23 @@
+--Importance of comments in JavaScript:-
+1. The JavaScript comments are meaningful way to deliver message. It is used to add information about the code, warnings or suggestions so that end user can easily interpret the code.
+2. The JavaScript comment is ignored by the JavaScript engine i.e. embedded in the browser.
+
+There are mainly two advantages of JavaScript comments:
+(a). To make code easy to understand It can be used to elaborate the code so that end user can easily understand the code.
+(b). To avoid the unnecessary code It can also be used to avoid the code being executed. Sometimes, we add the code to perform some action. But after sometime, there may be need to disable the code. In such case, it is better to use comments.
+
+There are two types of comments in JavaScript.
+
+Single-line Comment:
+- It is represented by double forward slashes (//). It can be used before and after the statement.
+- Anything after the slashes on the same line will be considered as comment.
+    FOR EXAMPLE:
+     //This is a single line comment.
+     // another single line comment.
+
+Multi-line Comment
+- It can be used to add single as well as multi line comments. So, it is more convenient.
+- It is represented by forward slash with asterisk then asterisk with forward slash. (/* your code here  */)
+    FOR EXAMPLE:
+    /* This is a multi line comment,
+       one more line here. */

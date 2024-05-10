@@ -1,0 +1,12 @@
+Operator precedence determines how operators are parsed concerning each other. Operators with higher precedence become the operands of operators with lower precedence.
+    For Example: console.log(3 + 4 * 5);  // 3 + 20
+                  // Expected output: 23
+Associativity refers to the order in which operators of the same precedence are evaluated. Some operators associate left to right, meaning they are evaluated from left to right. Others associate right to left, meaning they are evaluated from right to left.
+    For Example: console.log(3 + 4 + 3);  // 7 + 3
+                  // Expected output: 10
+
+Understanding these concepts are important because:
+1. Predictability: knowledge of Operator precedence and Associativity allows developers to write code that behaves as intended.
+2. Debugging: In case of unexpected results having the knowledge of these concepts helps in finding the root cause of the problems.
+3.Optimized Code: This can be used to optimize code by avoiding
+unnecessary parentheses and ensuring efficient computation.

@@ -1,0 +1,19 @@
+--Importance of choosing meaningful and descriptive variable names in JavaScript:
+
+1. A variable name should have a clean, obvious meaning, describing the data that it stores.
+
+2. In a real project, most of the time is spent modifying and extending an existing code base rather than writing something completely separate from scratch. When we return to some code after doing something else for a while, it’s much easier to find information that is well-labelled. Or, in other words, when the variables have good names.
+
+3. Use human-readable names like userName or shoppingCart.
+4. Make names maximally descriptive and concise. Examples of bad names are data and value. Such names say nothing. It’s only okay to use them if the context of the code makes it exceptionally obvious which data or value the variable is referencing.
+ 
+    FOR EXAMPLE:
+        // Less Descriptive Variable Names
+           let a = 10; // Price of the product
+           let b = 5; // Quantity of the product
+           let total = a * b; // Calculate total cost
+
+        // More Descriptive Variable Names
+        let productPrice = 10; // Price of the product
+        let productQuantity = 5; // Quantity of the product
+        let totalPrice = productPrice * productQuantity; // Calculate total cost

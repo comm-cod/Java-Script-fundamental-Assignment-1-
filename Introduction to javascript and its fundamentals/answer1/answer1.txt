@@ -1,0 +1,5 @@
+JavaScript is a crucial programming language in web development, playing a vital role in creating dynamic and interactive web pages.
+
+It’s used to add functionality, validate forms, detect browsers, and much more. JavaScript is an object scripting language that’s used in web pages along with markup language HTML. It’s not part of the HTML syntax, but rather a separate language that’s executed by web browsers.
+
+JavaScript’s most popular use is, it’s used to add interactivity and features to improve the user experience. It’s used to create dynamic web pages, web applications, and mobile applications. JavaScript’s ability to make webpages more dynamic and interactive has made it an indispensable tool for modern web developers.

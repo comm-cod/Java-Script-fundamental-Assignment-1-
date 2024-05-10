@@ -1,0 +1,9 @@
+The Operators can be categorized based on the number of operands they require.
+The three categories of operators based on the number of operands they require are:
+1. Unary operators: which require one operand.
+    For Example: 
+      typeof "hi"  //string
+2. Binary operators: which require two operands.All arithmetic operators are binary operators.
+    For Example: 
+      10 + 20  //30
+3. Ternary operators: which require three operands.In JavaScript, there is one operator that falls under this category – the conditional operator.

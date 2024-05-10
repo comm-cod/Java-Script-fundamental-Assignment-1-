@@ -1,0 +1,20 @@
+Categorization of operators in JavaScript based on their functionality :-
+
+The arithmetic operators are used to perform mathematical operations like addition and subtraction.
+These operators are frequently used with number data types.
+1. Arithmetic Operators :
+These operators perform mathematical operation on operands.
+ FOR Example: 
+ addition(+), subtraction(-), multiplication(*), division(/)
+2. Assignment Operators :
+These operators assign values to variables.
+ FOR Example:
+ assignment operator(=), addition assignment operator(+=), multiplication assignment operator(*=) 
+3. Logical Operators :
+These operators perform logical operation on Boolean values.
+ FOR Example:
+ OR (||), AND (&&), NOT (!)
+4. Comparison Operators: 
+These operators compare two values and return a Boolean value(true or false).
+ FOR Example:
+ Equal to (==), Greater than(>), Less than Equal to (<=), etc.

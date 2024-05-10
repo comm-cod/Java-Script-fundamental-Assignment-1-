@@ -1,0 +1,12 @@
+JAVASCRIPT :-
+- JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else.
+- JavaScript is a high level programming language used for interactivity and functionality to web pages.
+- JavaScript enables developers to dynamically update web page content, making it possible to create responsive and interactive user interfaces.
+
+HTML
+- HTML is the markup language that we use to structure and give meaning to our web content, for example defining paragraphs, headings, and data tables, or embedding images and videos in the page.
+- HTML provides the structural layer of a web page, defining the layout and organization of the content.
+- HTML is used to create the content of a web page, including text, images, and other multimedia elements.
+- HTML allows developers to create interactive elements such as forms, buttons, and links.
+
+FOR EXAMPLE :-
